@@ -18,6 +18,6 @@
 [![시연영상](https://img.youtube.com/vi/mdFnKdle-kw/0.jpg)](https://youtu.be/mdFnKdle-kw)
 
 ## 💾 발표 자료 
-<a href="https://github.com/0206cho/LabVIEW_Cloud/blob/main/libs/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf">
+<a href="https://github.com/gbr7780/LabVIEW_Cloud/blob/main/libs/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf">
   📄 자료 보기
 </a>
